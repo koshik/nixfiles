@@ -64,6 +64,7 @@
     git
     htop
     rxvt_unicode
+    stow
     dmenu
     chromium
     haskellPackages.xmobar
